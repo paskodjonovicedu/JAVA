@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96145613-dc45-4da9-8a74-27b792aa754c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/academy/learnprogramming/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYearCalculator/src/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BillsBurgers/academy/learnprogramming/DeluxeBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BillsBurgers/academy/learnprogramming/Hamburger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BillsBurgers/academy/learnprogramming/HealthyBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BillsBurgers/academy/learnprogramming/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Person/academy/learnprogramming/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Person/academy/learnprogramming/Person.class" beforeDir="false" />
-    </list>
+    <list default="true" id="bd1da4e4-b339-473e-bedf-cd1c29ea3a49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="24pYrFQp0vPUcex1nF2MkVvCT1p" />
+  <component name="ProjectId" id="24sK5MhjBJxH65svTzc4IXsvoey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +30,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
-      <module name="SortedArray" />
+      <module name="ArrayListANDList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -50,19 +38,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96145613-dc45-4da9-8a74-27b792aa754c" name="Default Changelist" comment="" />
-      <created>1644329191332</created>
+      <changelist id="bd1da4e4-b339-473e-bedf-cd1c29ea3a49" name="Default Changelist" comment="" />
+      <created>1644413669276</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644329191332</updated>
-      <workItem from="1644329194712" duration="2000" />
+      <updated>1644413669276</updated>
+      <workItem from="1644413671590" duration="2943000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1644416586020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644416586020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="943" y="87" key="CommitChangelistDialog2" timestamp="1644416585530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="943" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1644416585530" />
+    <state width="1090" height="278" key="GridCell.Tab.0.bottom" timestamp="1644416641430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1090" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644416641430" />
+    <state width="1090" height="278" key="GridCell.Tab.0.center" timestamp="1644416641430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1090" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644416641430" />
+    <state width="1090" height="278" key="GridCell.Tab.0.left" timestamp="1644416641430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1090" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644416641430" />
+    <state width="1090" height="278" key="GridCell.Tab.0.right" timestamp="1644416641430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1090" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644416641430" />
+    <state x="947" y="238" key="Vcs.Push.Dialog.v2" timestamp="1644416587159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="947" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644416587159" />
   </component>
 </project>
