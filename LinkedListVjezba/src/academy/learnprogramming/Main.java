@@ -85,12 +85,12 @@ public class Main {
 
                 case 2:
                     if (goingForward) {
-                        if (listIterator.hasNext()) {
-                            listIterator.next();
+                        if (listIterator.hasPrevious()) {
+                            listIterator.previous();
                         }
                         goingForward = false;
                     }
-                    if (listIterator.hasNext()) {
+                    if (listIterator.hasPrevious()) {
                         System.out.println("Now reading " + listIterator.previous());
                     } else {
                         System.out.println("We are at the start of the list");
