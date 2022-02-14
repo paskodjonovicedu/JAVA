@@ -11,7 +11,7 @@ public class Album {
     public Album(String name, String artist) {
         this.name = name;
         this.artist = artist;
-        this.songs = new ArrayList<Song>();
+        this.songs = new ArrayList<>();
     }
 
     public boolean addSong(String titleOfSong, double durationOfSong) {
@@ -33,7 +33,7 @@ public class Album {
 
     public boolean addToPlayList(int trackNumber, LinkedList<Song> playList) {
         int index = trackNumber - 1;
-        if ((index > 0) && (index <= this.songs.size())) {
+        if ((index >= 0) && (index <= this.songs.size())) {
             playList.add(this.songs.get(index));
             return true;
         }
